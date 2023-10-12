@@ -1,0 +1,68 @@
+import { apiURL, axiosClient } from "service";
+import * as actionTypes from "./countryTypes";
+import { authHeader } from "helpers/auth";
+
+export const fetchCountries = (countryFilter) => async (dispatch) => {
+  dispatch({ type: actionTypes.SET_LOADING });
+  const response = (await axiosClient.post(apiURL.countries, countryFilter, authHeader())).data;
+
+  if (!response.error) {
+    dispatch({ type: actionTypes.FETCH_COUNTRIES_SUCCESS, payload: response });
+  } else {
+    dispatch({ type: actionTypes.FETCH_COUNTRIES_ERROR, payload: response.error });
+  }
+};
+
+export const getEUCountries = () => async (dispatch) => {
+  dispatch({ type: actionTypes.SET_LOADING });
+  const response = (await axiosClient.get(apiURL.getEUCountries, authHeader())).data;
+
+  if (!response.error) {
+    dispatch({ type: actionTypes.GET_EU_COUNTRIES_SUCCESS, payload: response });
+  } else {
+    dispatch({ type: actionTypes.GET_EU_COUNTRIES_ERROR, payload: response.error });
+  }
+};
+export const setSelectedCountry = (country) => async (dispatch) => {
+  dispatch({ type: actionTypes.SET_SELECTED_COUNTRY, payload: country });
+};
+
+// export const createVehicle = (vehicle) => async (dispatch) => {
+//   dispatch({ type: actionTypes.SET_LOADING });
+//   const response = (await axiosClient.post(apiURL.createVehicle, vehicle, authHeader())).data;
+
+//   if (!response.error) {
+//     dispatch({ type: actionTypes.CREATE_VEHICLE_SUCCESS, payload: response });
+//   } else {
+//     dispatch({ type: actionTypes.CREATE_VEHICLE_ERROR, payload: response.error });
+//   }
+// };
+// export const updateVehicle = (vehicle) => async (dispatch) => {
+//   dispatch({ type: actionTypes.SET_LOADING });
+//   const response = (await axiosClient.put(apiURL.updateVehicle, vehicle, authHeader())).data;
+
+//   if (!response.error) {
+//     dispatch({ type: actionTypes.UPDATE_VEHICLE_SUCCESS, payload: response });
+//   } else {
+//     dispatch({ type: actionTypes.UPDATE_VEHICLE_ERROR, payload: response.error });
+//   }
+// };
+// export const deleteVehicle = (id) => async (dispatch) => {
+//   dispatch({ type: actionTypes.SET_LOADING });
+//   const response = (await axiosClient.delete(`${apiURL.deleteVehicle}/${id}`, authHeader())).data;
+
+//   if (!response.error) {
+//     dispatch({ type: actionTypes.DELETE_VEHICLE_SUCCESS, payload: response });
+//   } else {
+//     dispatch({ type: actionTypes.DELETE_VEHICLE_ERROR, payload: response.error });
+//   }
+// };
+// export const toggleCreateEditModal = (open) => async (dispatch) => {
+//   dispatch({ type: actionTypes.TOGGLE_CREATE_EDIT_MODAL, payload: open });
+// };
+// export const setModalType = (type) => async (dispatch) => {
+//   dispatch({ type: actionTypes.SET_MODAL_TYPE, payload: type });
+// };
+// export const setSelectedVehicle = (vehicle) => async (dispatch) => {
+//   dispatch({ type: actionTypes.SET_SELECTED_VEHICLE, payload: vehicle });
+// };

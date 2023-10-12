@@ -1,0 +1,9 @@
+export const SIGN_IN_USER_SUCCESS = 'SIGN_IN_USER_SUCCESS';
+export const SIGN_IN_ERROR = 'SIGN_IN_ERROR';
+export const SIGN_UP_USER_SUCCESS = 'SIGN_UP_USER_SUCCESS';
+export const SIGN_UP_ERROR = 'SIGN_UP_ERROR';
+export const SIGN_OUT_USER_SUCCESS = 'SIGN_OUT_USER_SUCCESS';
+export const SET_USER = 'SET_USER';
+export const RESET_USER = 'RESET_USER';
+export const SET_MENU_SUCCESS = 'SET_MENU_SUCCESS';
+export const SET_MENU_ERROR = 'SET_MENU_ERROR';

@@ -1,0 +1,32 @@
+.bottom_menu_container {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  z-index: 100;
+}
+
+.menu_icon_container {
+  display: flex;
+  width: 50px;
+  height: 50px;
+  border: 1px solid #ff6104;
+  justify-content: center;
+  box-shadow: 3px 3px 8px #5d5959db;
+  border-radius: 50%;
+  background-color: #ff6104;
+  cursor: pointer;
+}
+
+.menu_icon_dot {
+  color: white;
+  font-size: 50px;
+  line-height: 20px;
+  display: inline-block;
+  font-weight: 800;
+}
+
+.menu_icon_x {
+  color: white;
+  font-size: 30px;
+  font-weight: 800;
+}

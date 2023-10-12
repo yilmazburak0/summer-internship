@@ -1,0 +1,1794 @@
+[
+    {
+      "code2": "ST",
+      "code3": "STP",
+      "euMember": false,
+      "name": "Sao Tome and Principe",
+      "numericCode": 678
+    },
+    {
+      "code2": "NR",
+      "code3": "NRU",
+      "euMember": false,
+      "name": "Nauru",
+      "numericCode": 520
+    },
+    {
+      "code2": "SD",
+      "code3": "SDN",
+      "euMember": false,
+      "name": "Sudan",
+      "numericCode": 736
+    },
+    {
+      "code2": "GA",
+      "code3": "GAB",
+      "euMember": false,
+      "name": "Gabon",
+      "numericCode": 266
+    },
+    {
+      "code2": "SR",
+      "code3": "SUR",
+      "euMember": false,
+      "name": "Suriname",
+      "numericCode": 740
+    },
+    {
+      "code2": "DO",
+      "code3": "DOM",
+      "euMember": false,
+      "name": "Dominican Republic",
+      "numericCode": 214
+    },
+    {
+      "code2": "DK",
+      "code3": "DNK",
+      "euMember": false,
+      "name": "Denmark",
+      "numericCode": 208
+    },
+    {
+      "code2": "BD",
+      "code3": "BGD",
+      "euMember": false,
+      "name": "Bangladesh",
+      "numericCode": 50
+    },
+    {
+      "code2": "DE",
+      "code3": "DEU",
+      "euMember": false,
+      "name": "Germany",
+      "numericCode": 276
+    },
+    {
+      "code2": "TN",
+      "code3": "TUN",
+      "euMember": false,
+      "name": "Tunisia",
+      "numericCode": 788
+    },
+    {
+      "code2": "NU",
+      "code3": "NIU",
+      "euMember": false,
+      "name": "Niue",
+      "numericCode": 570
+    },
+    {
+      "code2": "PW",
+      "code3": "PLW",
+      "euMember": false,
+      "name": "Palau",
+      "numericCode": 585
+    },
+    {
+      "code2": "AN",
+      "code3": "ANT",
+      "euMember": false,
+      "name": "Netherlands Antilles",
+      "numericCode": 530
+    },
+    {
+      "code2": "BF",
+      "code3": "BFA",
+      "euMember": false,
+      "name": "Burkina Faso",
+      "numericCode": 854
+    },
+    {
+      "code2": "KY",
+      "code3": "CYM",
+      "euMember": false,
+      "name": "Cayman Islands",
+      "numericCode": 136
+    },
+    {
+      "code2": "TV",
+      "code3": "TUV",
+      "euMember": false,
+      "name": "Tuvalu",
+      "numericCode": 798
+    },
+    {
+      "code2": "PN",
+      "code3": "PCN",
+      "euMember": false,
+      "name": "Pitcairn",
+      "numericCode": 612
+    },
+    {
+      "code2": "GP",
+      "code3": "GLP",
+      "euMember": false,
+      "name": "Guadeloupe",
+      "numericCode": 312
+    },
+    {
+      "code2": "SK",
+      "code3": "SVK",
+      "euMember": false,
+      "name": "Slovakia",
+      "numericCode": 703
+    },
+    {
+      "code2": "MZ",
+      "code3": "MOZ",
+      "euMember": false,
+      "name": "Mozambique",
+      "numericCode": 508
+    },
+    {
+      "code2": "DM",
+      "code3": "DMA",
+      "euMember": false,
+      "name": "Dominica",
+      "numericCode": 212
+    },
+    {
+      "code2": "MN",
+      "code3": "MNG",
+      "euMember": false,
+      "name": "Mongolia",
+      "numericCode": 496
+    },
+    {
+      "code2": "BH",
+      "code3": "BHR",
+      "euMember": false,
+      "name": "Bahrain",
+      "numericCode": 48
+    },
+    {
+      "code2": "MG",
+      "code3": "MDG",
+      "euMember": false,
+      "name": "Madagascar",
+      "numericCode": 450
+    },
+    {
+      "code2": "MU",
+      "code3": "MUS",
+      "euMember": false,
+      "name": "Mauritius",
+      "numericCode": 480
+    },
+    {
+      "code2": "TJ",
+      "code3": "TJK",
+      "euMember": false,
+      "name": "Tajikistan",
+      "numericCode": 762
+    },
+    {
+      "code2": "FR",
+      "code3": "FRA",
+      "euMember": false,
+      "name": "France",
+      "numericCode": 250
+    },
+    {
+      "code2": "GM",
+      "code3": "GMB",
+      "euMember": false,
+      "name": "Gambia",
+      "numericCode": 270
+    },
+    {
+      "code2": "PH",
+      "code3": "PHL",
+      "euMember": false,
+      "name": "Philippines",
+      "numericCode": 608
+    },
+    {
+      "code2": "CK",
+      "code3": "COK",
+      "euMember": false,
+      "name": "Cook Islands",
+      "numericCode": 184
+    },
+    {
+      "code2": "PR",
+      "code3": "PRI",
+      "euMember": false,
+      "name": "Puerto Rico",
+      "numericCode": 630
+    },
+    {
+      "code2": "CF",
+      "code3": "CAF",
+      "euMember": false,
+      "name": "Central African Republic",
+      "numericCode": 140
+    },
+    {
+      "code2": "GD",
+      "code3": "GRD",
+      "euMember": false,
+      "name": "Grenada",
+      "numericCode": 308
+    },
+    {
+      "code2": "ZW",
+      "code3": "ZWE",
+      "euMember": false,
+      "name": "Zimbabwe",
+      "numericCode": 716
+    },
+    {
+      "code2": "KI",
+      "code3": "KIR",
+      "euMember": false,
+      "name": "Kiribati",
+      "numericCode": 296
+    },
+    {
+      "code2": "CR",
+      "code3": "CRI",
+      "euMember": false,
+      "name": "Costa Rica",
+      "numericCode": 188
+    },
+    {
+      "code2": "MS",
+      "code3": "MSR",
+      "euMember": false,
+      "name": "Montserrat",
+      "numericCode": 500
+    },
+    {
+      "code2": "JM",
+      "code3": "JAM",
+      "euMember": false,
+      "name": "Jamaica",
+      "numericCode": 388
+    },
+    {
+      "code2": "BE",
+      "code3": "BEL",
+      "euMember": false,
+      "name": "Belgium",
+      "numericCode": 56
+    },
+    {
+      "code2": "VE",
+      "code3": "VEN",
+      "euMember": false,
+      "name": "Venezuela",
+      "numericCode": 862
+    },
+    {
+      "code2": "MA",
+      "code3": "MAR",
+      "euMember": false,
+      "name": "Morocco",
+      "numericCode": 504
+    },
+    {
+      "code2": "NE",
+      "code3": "NER",
+      "euMember": false,
+      "name": "Niger",
+      "numericCode": 562
+    },
+    {
+      "code2": "HM",
+      "code3": "HMD",
+      "euMember": false,
+      "name": "Heard Island and McDonald Islands",
+      "numericCode": 334
+    },
+    {
+      "code2": "SH",
+      "code3": "SHN",
+      "euMember": false,
+      "name": "Saint Helena, Ascension and Tristan da Cunha",
+      "numericCode": 654
+    },
+    {
+      "code2": "GS",
+      "code3": "SGS",
+      "euMember": false,
+      "name": "South Georgia and the South Sandwich Islands",
+      "numericCode": 239
+    },
+    {
+      "code2": "CI",
+      "code3": "CIV",
+      "euMember": false,
+      "name": "Côte d'Ivoire",
+      "numericCode": 384
+    },
+    {
+      "code2": "YE",
+      "code3": "YEM",
+      "euMember": false,
+      "name": "Yemen",
+      "numericCode": 887
+    },
+    {
+      "code2": "MY",
+      "code3": "MYS",
+      "euMember": false,
+      "name": "Malaysia",
+      "numericCode": 458
+    },
+    {
+      "code2": "PM",
+      "code3": "SPM",
+      "euMember": false,
+      "name": "Saint Pierre and Miquelon",
+      "numericCode": 666
+    },
+    {
+      "code2": "LY",
+      "code3": "LBY",
+      "euMember": false,
+      "name": "Libyan Arab Jamahiriya",
+      "numericCode": 434
+    },
+    {
+      "code2": "AI",
+      "code3": "AIA",
+      "euMember": false,
+      "name": "Anguilla",
+      "numericCode": 660
+    },
+    {
+      "code2": "GG",
+      "code3": "GGY",
+      "euMember": false,
+      "name": "Guernsey",
+      "numericCode": 831
+    },
+    {
+      "code2": "AW",
+      "code3": "ABW",
+      "euMember": false,
+      "name": "Aruba",
+      "numericCode": 533
+    },
+    {
+      "code2": "CU",
+      "code3": "CUB",
+      "euMember": false,
+      "name": "Cuba",
+      "numericCode": 192
+    },
+    {
+      "code2": "KN",
+      "code3": "KNA",
+      "euMember": false,
+      "name": "Saint Kitts and Nevis",
+      "numericCode": 659
+    },
+    {
+      "code2": "IM",
+      "code3": "IMN",
+      "euMember": false,
+      "name": "Isle of Man",
+      "numericCode": 833
+    },
+    {
+      "code2": "BN",
+      "code3": "BRN",
+      "euMember": false,
+      "name": "Brunei Darussalam",
+      "numericCode": 96
+    },
+    {
+      "code2": "MR",
+      "code3": "MRT",
+      "euMember": false,
+      "name": "Mauritania",
+      "numericCode": 478
+    },
+    {
+      "code2": "CC",
+      "code3": "CCK",
+      "euMember": false,
+      "name": "Cocos (Keeling) Islands",
+      "numericCode": 166
+    },
+    {
+      "code2": "PL",
+      "code3": "POL",
+      "euMember": false,
+      "name": "Poland",
+      "numericCode": 616
+    },
+    {
+      "code2": "KE",
+      "code3": "KEN",
+      "euMember": false,
+      "name": "Kenya",
+      "numericCode": 404
+    },
+    {
+      "code2": "UG",
+      "code3": "UGA",
+      "euMember": false,
+      "name": "Uganda",
+      "numericCode": 800
+    },
+    {
+      "code2": "GL",
+      "code3": "GRL",
+      "euMember": false,
+      "name": "Greenland",
+      "numericCode": 304
+    },
+    {
+      "code2": "ET",
+      "code3": "ETH",
+      "euMember": false,
+      "name": "Ethiopia",
+      "numericCode": 231
+    },
+    {
+      "code2": "WS",
+      "code3": "WSM",
+      "euMember": false,
+      "name": "Samoa",
+      "numericCode": 882
+    },
+    {
+      "code2": "AS",
+      "code3": "ASM",
+      "euMember": false,
+      "name": "American Samoa",
+      "numericCode": 16
+    },
+    {
+      "code2": "GT",
+      "code3": "GTM",
+      "euMember": false,
+      "name": "Guatemala",
+      "numericCode": 320
+    },
+    {
+      "code2": "RO",
+      "code3": "ROU",
+      "euMember": false,
+      "name": "Romania",
+      "numericCode": 642
+    },
+    {
+      "code2": "MM",
+      "code3": "MMR",
+      "euMember": false,
+      "name": "Burma",
+      "numericCode": 104
+    },
+    {
+      "code2": "CL",
+      "code3": "CHL",
+      "euMember": false,
+      "name": "Chile",
+      "numericCode": 152
+    },
+    {
+      "code2": "TZ",
+      "code3": "TZA",
+      "euMember": false,
+      "name": "Tanzania, United Republic of",
+      "numericCode": 834
+    },
+    {
+      "code2": "BM",
+      "code3": "BMU",
+      "euMember": false,
+      "name": "Bermuda",
+      "numericCode": 60
+    },
+    {
+      "code2": "SI",
+      "code3": "SVN",
+      "euMember": false,
+      "name": "Slovenia",
+      "numericCode": 705
+    },
+    {
+      "code2": "PE",
+      "code3": "PER",
+      "euMember": false,
+      "name": "Peru",
+      "numericCode": 604
+    },
+    {
+      "code2": "NZ",
+      "code3": "NZL",
+      "euMember": false,
+      "name": "New Zealand",
+      "numericCode": 554
+    },
+    {
+      "code2": "JP",
+      "code3": "JPN",
+      "euMember": false,
+      "name": "Japan",
+      "numericCode": 392
+    },
+    {
+      "code2": "BV",
+      "code3": "BVT",
+      "euMember": false,
+      "name": "Bouvet Island",
+      "numericCode": 74
+    },
+    {
+      "code2": "BZ",
+      "code3": "BLZ",
+      "euMember": false,
+      "name": "Belize",
+      "numericCode": 84
+    },
+    {
+      "code2": "PG",
+      "code3": "PNG",
+      "euMember": false,
+      "name": "Papua New Guinea",
+      "numericCode": 598
+    },
+    {
+      "code2": "AF",
+      "code3": "AFG",
+      "euMember": false,
+      "name": "Afghanistan",
+      "numericCode": 4
+    },
+    {
+      "code2": "GI",
+      "code3": "GIB",
+      "euMember": false,
+      "name": "Gibraltar",
+      "numericCode": 292
+    },
+    {
+      "code2": "QA",
+      "code3": "QAT",
+      "euMember": false,
+      "name": "Qatar",
+      "numericCode": 634
+    },
+    {
+      "code2": "PF",
+      "code3": "PYF",
+      "euMember": false,
+      "name": "French Polynesia",
+      "numericCode": 258
+    },
+    {
+      "code2": "VU",
+      "code3": "VUT",
+      "euMember": false,
+      "name": "Vanuatu",
+      "numericCode": 548
+    },
+    {
+      "code2": "ZM",
+      "code3": "ZMB",
+      "euMember": false,
+      "name": "Zambia",
+      "numericCode": 894
+    },
+    {
+      "code2": "CZ",
+      "code3": "CZE",
+      "euMember": false,
+      "name": "Czech Republic",
+      "numericCode": 203
+    },
+    {
+      "code2": "MC",
+      "code3": "MCO",
+      "euMember": false,
+      "name": "Monaco",
+      "numericCode": 492
+    },
+    {
+      "code2": "BN",
+      "code3": "BRN",
+      "euMember": false,
+      "name": "Brunei",
+      "numericCode": 96
+    },
+    {
+      "code2": "KG",
+      "code3": "KGZ",
+      "euMember": false,
+      "name": "Kyrgyzstan",
+      "numericCode": 417
+    },
+    {
+      "code2": "TK",
+      "code3": "TKL",
+      "euMember": false,
+      "name": "Tokelau",
+      "numericCode": 772
+    },
+    {
+      "code2": "GR",
+      "code3": "GRC",
+      "euMember": false,
+      "name": "Greece",
+      "numericCode": 300
+    },
+    {
+      "code2": "JO",
+      "code3": "JOR",
+      "euMember": false,
+      "name": "Jordan",
+      "numericCode": 400
+    },
+    {
+      "code2": "BB",
+      "code3": "BRB",
+      "euMember": false,
+      "name": "Barbados",
+      "numericCode": 52
+    },
+    {
+      "code2": "VC",
+      "code3": "VCT",
+      "euMember": false,
+      "name": "St. Vincent and the Grenadines",
+      "numericCode": 670
+    },
+    {
+      "code2": "MW",
+      "code3": "MWI",
+      "euMember": false,
+      "name": "Malawi",
+      "numericCode": 454
+    },
+    {
+      "code2": "VE",
+      "code3": "VEN",
+      "euMember": false,
+      "name": "Venezuela, Bolivarian Republic of",
+      "numericCode": 862
+    },
+    {
+      "code2": "GN",
+      "code3": "GIN",
+      "euMember": false,
+      "name": "Guinea",
+      "numericCode": 324
+    },
+    {
+      "code2": "HR",
+      "code3": "HRV",
+      "euMember": false,
+      "name": "Croatia",
+      "numericCode": 191
+    },
+    {
+      "code2": "SC",
+      "code3": "SYC",
+      "euMember": false,
+      "name": "Seychelles",
+      "numericCode": 690
+    },
+    {
+      "code2": "VA",
+      "code3": "VAT",
+      "euMember": false,
+      "name": "Holy See (Vatican City State)",
+      "numericCode": 336
+    },
+    {
+      "code2": "YT",
+      "code3": "MYT",
+      "euMember": false,
+      "name": "Mayotte",
+      "numericCode": 175
+    },
+    {
+      "code2": "KZ",
+      "code3": "KAZ",
+      "euMember": false,
+      "name": "Kazakhstan",
+      "numericCode": 398
+    },
+    {
+      "code2": "ME",
+      "code3": "MNE",
+      "euMember": false,
+      "name": "Montenegro",
+      "numericCode": 499
+    },
+    {
+      "code2": "NL",
+      "code3": "NLD",
+      "euMember": false,
+      "name": "Netherlands",
+      "numericCode": 528
+    },
+    {
+      "code2": "RU",
+      "code3": "RUS",
+      "euMember": false,
+      "name": "Russia",
+      "numericCode": 643
+    },
+    {
+      "code2": "EC",
+      "code3": "ECU",
+      "euMember": false,
+      "name": "Ecuador",
+      "numericCode": 218
+    },
+    {
+      "code2": "SL",
+      "code3": "SLE",
+      "euMember": false,
+      "name": "Sierra Leone",
+      "numericCode": 694
+    },
+    {
+      "code2": "OM",
+      "code3": "OMN",
+      "euMember": false,
+      "name": "Oman",
+      "numericCode": 512
+    },
+    {
+      "code2": "HT",
+      "code3": "HTI",
+      "euMember": false,
+      "name": "Haiti",
+      "numericCode": 332
+    },
+    {
+      "code2": "ER",
+      "code3": "ERI",
+      "euMember": false,
+      "name": "Eritrea",
+      "numericCode": 232
+    },
+    {
+      "code2": "FO",
+      "code3": "FRO",
+      "euMember": false,
+      "name": "Faroe Islands",
+      "numericCode": 234
+    },
+    {
+      "code2": "MV",
+      "code3": "MDV",
+      "euMember": false,
+      "name": "Maldives",
+      "numericCode": 462
+    },
+    {
+      "code2": "ML",
+      "code3": "MLI",
+      "euMember": false,
+      "name": "Mali",
+      "numericCode": 466
+    },
+    {
+      "code2": "NA",
+      "code3": "NAM",
+      "euMember": false,
+      "name": "Namibia",
+      "numericCode": 516
+    },
+    {
+      "code2": "MD",
+      "code3": "MDA",
+      "euMember": false,
+      "name": "Moldova, Republic of",
+      "numericCode": 498
+    },
+    {
+      "code2": "TG",
+      "code3": "TGO",
+      "euMember": false,
+      "name": "Togo",
+      "numericCode": 768
+    },
+    {
+      "code2": "VI",
+      "code3": "VIR",
+      "euMember": false,
+      "name": "Virgin Islands, U.S.",
+      "numericCode": 850
+    },
+    {
+      "code2": "UZ",
+      "code3": "UZB",
+      "euMember": false,
+      "name": "Uzbekistan",
+      "numericCode": 860
+    },
+    {
+      "code2": "TM",
+      "code3": "TKM",
+      "euMember": false,
+      "name": "Turkmenistan",
+      "numericCode": 795
+    },
+    {
+      "code2": "IT",
+      "code3": "ITA",
+      "euMember": false,
+      "name": "Italy",
+      "numericCode": 380
+    },
+    {
+      "code2": "CO",
+      "code3": "COL",
+      "euMember": false,
+      "name": "Colombia",
+      "numericCode": 170
+    },
+    {
+      "code2": "TO",
+      "code3": "TON",
+      "euMember": false,
+      "name": "Tonga",
+      "numericCode": 776
+    },
+    {
+      "code2": "LV",
+      "code3": "LVA",
+      "euMember": false,
+      "name": "Latvia",
+      "numericCode": 428
+    },
+    {
+      "code2": "GU",
+      "code3": "GUM",
+      "euMember": false,
+      "name": "Guam",
+      "numericCode": 316
+    },
+    {
+      "code2": "FK",
+      "code3": "FLK",
+      "euMember": false,
+      "name": "Falkland Islands (Malvinas)",
+      "numericCode": 238
+    },
+    {
+      "code2": "KR",
+      "code3": "KOR",
+      "euMember": false,
+      "name": "South Korea",
+      "numericCode": 410
+    },
+    {
+      "code2": "DJ",
+      "code3": "DJI",
+      "euMember": false,
+      "name": "Djibouti",
+      "numericCode": 262
+    },
+    {
+      "code2": "CM",
+      "code3": "CMR",
+      "euMember": false,
+      "name": "Cameroon",
+      "numericCode": 120
+    },
+    {
+      "code2": "KP",
+      "code3": "PRK",
+      "euMember": false,
+      "name": "Korea, Democratic People's Republic of",
+      "numericCode": 408
+    },
+    {
+      "code2": "BY",
+      "code3": "BLR",
+      "euMember": false,
+      "name": "Belarus",
+      "numericCode": 112
+    },
+    {
+      "code2": "TW",
+      "code3": "TWN",
+      "euMember": false,
+      "name": "Taiwan, Province of China",
+      "numericCode": 158
+    },
+    {
+      "code2": "PY",
+      "code3": "PRY",
+      "euMember": false,
+      "name": "Paraguay",
+      "numericCode": 600
+    },
+    {
+      "code2": "RE",
+      "code3": "REU",
+      "euMember": false,
+      "name": "Réunion",
+      "numericCode": 638
+    },
+    {
+      "code2": "EH",
+      "code3": "ESH",
+      "euMember": false,
+      "name": "Western Sahara",
+      "numericCode": 732
+    },
+    {
+      "code2": "LC",
+      "code3": "LCA",
+      "euMember": false,
+      "name": "Saint Lucia",
+      "numericCode": 662
+    },
+    {
+      "code2": "SA",
+      "code3": "SAU",
+      "euMember": false,
+      "name": "Saudi Arabia",
+      "numericCode": 682
+    },
+    {
+      "code2": "PA",
+      "code3": "PAN",
+      "euMember": false,
+      "name": "Panama",
+      "numericCode": 591
+    },
+    {
+      "code2": "JE",
+      "code3": "JEY",
+      "euMember": false,
+      "name": "Jersey",
+      "numericCode": 832
+    },
+    {
+      "code2": "UA",
+      "code3": "UKR",
+      "euMember": false,
+      "name": "Ukraine",
+      "numericCode": 804
+    },
+    {
+      "code2": "MQ",
+      "code3": "MTQ",
+      "euMember": false,
+      "name": "Martinique",
+      "numericCode": 474
+    },
+    {
+      "code2": "TL",
+      "code3": "TLS",
+      "euMember": false,
+      "name": "Timor-Leste",
+      "numericCode": 626
+    },
+    {
+      "code2": "VN",
+      "code3": "VNM",
+      "euMember": false,
+      "name": "Viet Nam",
+      "numericCode": 704
+    },
+    {
+      "code2": "LU",
+      "code3": "LUX",
+      "euMember": false,
+      "name": "Luxembourg",
+      "numericCode": 442
+    },
+    {
+      "code2": "MX",
+      "code3": "MEX",
+      "euMember": false,
+      "name": "Mexico",
+      "numericCode": 484
+    },
+    {
+      "code2": "TC",
+      "code3": "TCA",
+      "euMember": false,
+      "name": "Turks and Caicos Islands",
+      "numericCode": 796
+    },
+    {
+      "code2": "AR",
+      "code3": "ARG",
+      "euMember": false,
+      "name": "Argentina",
+      "numericCode": 32
+    },
+    {
+      "code2": "GQ",
+      "code3": "GNQ",
+      "euMember": false,
+      "name": "Equatorial Guinea",
+      "numericCode": 226
+    },
+    {
+      "code2": "MK",
+      "code3": "MKD",
+      "euMember": false,
+      "name": "Macedonia, the former Yugoslav Republic of",
+      "numericCode": 807
+    },
+    {
+      "code2": "MH",
+      "code3": "MHL",
+      "euMember": false,
+      "name": "Marshall Islands",
+      "numericCode": 584
+    },
+    {
+      "code2": "HK",
+      "code3": "HKG",
+      "euMember": false,
+      "name": "Hong Kong",
+      "numericCode": 344
+    },
+    {
+      "code2": "IS",
+      "code3": "ISL",
+      "euMember": false,
+      "name": "Iceland",
+      "numericCode": 352
+    },
+    {
+      "code2": "TH",
+      "code3": "THA",
+      "euMember": false,
+      "name": "Thailand",
+      "numericCode": 764
+    },
+    {
+      "code2": "IO",
+      "code3": "IOT",
+      "euMember": false,
+      "name": "British Indian Ocean Territory",
+      "numericCode": 86
+    },
+    {
+      "code2": "RS",
+      "code3": "SRB",
+      "euMember": false,
+      "name": "Serbia",
+      "numericCode": 688
+    },
+    {
+      "code2": "IR",
+      "code3": "IRN",
+      "euMember": false,
+      "name": "Iran, Islamic Republic of",
+      "numericCode": 364
+    },
+    {
+      "code2": "SJ",
+      "code3": "SJM",
+      "euMember": false,
+      "name": "Svalbard and Jan Mayen",
+      "numericCode": 744
+    },
+    {
+      "code2": "HU",
+      "code3": "HUN",
+      "euMember": false,
+      "name": "Hungary",
+      "numericCode": 348
+    },
+    {
+      "code2": "TW",
+      "code3": "TWN",
+      "euMember": false,
+      "name": "Taiwan",
+      "numericCode": 158
+    },
+    {
+      "code2": "CA",
+      "code3": "CAN",
+      "euMember": false,
+      "name": "Canada",
+      "numericCode": 124
+    },
+    {
+      "code2": "LT",
+      "code3": "LTU",
+      "euMember": false,
+      "name": "Lithuania",
+      "numericCode": 440
+    },
+    {
+      "code2": "SN",
+      "code3": "SEN",
+      "euMember": false,
+      "name": "Senegal",
+      "numericCode": 686
+    },
+    {
+      "code2": "NP",
+      "code3": "NPL",
+      "euMember": false,
+      "name": "Nepal",
+      "numericCode": 524
+    },
+    {
+      "code2": "SV",
+      "code3": "SLV",
+      "euMember": false,
+      "name": "El Salvador",
+      "numericCode": 222
+    },
+    {
+      "code2": "ZA",
+      "code3": "ZAF",
+      "euMember": false,
+      "name": "South Africa",
+      "numericCode": 710
+    },
+    {
+      "code2": "KR",
+      "code3": "KOR",
+      "euMember": false,
+      "name": "Korea, Republic of",
+      "numericCode": 410
+    },
+    {
+      "code2": "AL",
+      "code3": "ALB",
+      "euMember": false,
+      "name": "Albania",
+      "numericCode": 8
+    },
+    {
+      "code2": "GB",
+      "code3": "GBR",
+      "euMember": false,
+      "name": "United Kingdom",
+      "numericCode": 826
+    },
+    {
+      "code2": "SO",
+      "code3": "SOM",
+      "euMember": false,
+      "name": "Somalia",
+      "numericCode": 706
+    },
+    {
+      "code2": "IQ",
+      "code3": "IRQ",
+      "euMember": false,
+      "name": "Iraq",
+      "numericCode": 368
+    },
+    {
+      "code2": "MT",
+      "code3": "MLT",
+      "euMember": false,
+      "name": "Malta",
+      "numericCode": 470
+    },
+    {
+      "code2": "AE",
+      "code3": "ARE",
+      "euMember": false,
+      "name": "United Arab Emirates",
+      "numericCode": 784
+    },
+    {
+      "code2": "VC",
+      "code3": "VCT",
+      "euMember": false,
+      "name": "Saint Vincent & the Grenadines",
+      "numericCode": 670
+    },
+    {
+      "code2": "IL",
+      "code3": "ISR",
+      "euMember": false,
+      "name": "Israel",
+      "numericCode": 376
+    },
+    {
+      "code2": "EE",
+      "code3": "EST",
+      "euMember": false,
+      "name": "Estonia",
+      "numericCode": 233
+    },
+    {
+      "code2": "LA",
+      "code3": "LAO",
+      "euMember": false,
+      "name": "Lao People's Democratic Republic",
+      "numericCode": 418
+    },
+    {
+      "code2": "KH",
+      "code3": "KHM",
+      "euMember": false,
+      "name": "Cambodia",
+      "numericCode": 116
+    },
+    {
+      "code2": "AM",
+      "code3": "ARM",
+      "euMember": false,
+      "name": "Armenia",
+      "numericCode": 51
+    },
+    {
+      "code2": "LR",
+      "code3": "LBR",
+      "euMember": false,
+      "name": "Liberia",
+      "numericCode": 430
+    },
+    {
+      "code2": "BR",
+      "code3": "BRA",
+      "euMember": false,
+      "name": "Brazil",
+      "numericCode": 76
+    },
+    {
+      "code2": "BS",
+      "code3": "BHS",
+      "euMember": false,
+      "name": "Bahamas",
+      "numericCode": 44
+    },
+    {
+      "code2": "LY",
+      "code3": "LBY",
+      "euMember": false,
+      "name": "Libya",
+      "numericCode": 434
+    },
+    {
+      "code2": "TF",
+      "code3": "ATF",
+      "euMember": false,
+      "name": "French Southern Territories",
+      "numericCode": 260
+    },
+    {
+      "code2": "BW",
+      "code3": "BWA",
+      "euMember": false,
+      "name": "Botswana",
+      "numericCode": 72
+    },
+    {
+      "code2": "SS",
+      "code3": "SSD",
+      "euMember": false,
+      "name": "South Sudan",
+      "numericCode": 728
+    },
+    {
+      "code2": "IN",
+      "code3": "IND",
+      "euMember": false,
+      "name": "India",
+      "numericCode": 356
+    },
+    {
+      "code2": "RU",
+      "code3": "RUS",
+      "euMember": false,
+      "name": "Russian Federation",
+      "numericCode": 643
+    },
+    {
+      "code2": "KW",
+      "code3": "KWT",
+      "euMember": false,
+      "name": "Kuwait",
+      "numericCode": 414
+    },
+    {
+      "code2": "LI",
+      "code3": "LIE",
+      "euMember": false,
+      "name": "Liechtenstein",
+      "numericCode": 438
+    },
+    {
+      "code2": "TR",
+      "code3": "TUR",
+      "euMember": false,
+      "name": "Turkey",
+      "numericCode": 792
+    },
+    {
+      "code2": "TT",
+      "code3": "TTO",
+      "euMember": false,
+      "name": "Trinidad and Tobago",
+      "numericCode": 780
+    },
+    {
+      "code2": "LS",
+      "code3": "LSO",
+      "euMember": false,
+      "name": "Lesotho",
+      "numericCode": 426
+    },
+    {
+      "code2": "FM",
+      "code3": "FSM",
+      "euMember": false,
+      "name": "Micronesia, Federated States of",
+      "numericCode": 583
+    },
+    {
+      "code2": "MM",
+      "code3": "MMR",
+      "euMember": false,
+      "name": "Myanmar",
+      "numericCode": 104
+    },
+    {
+      "code2": "NI",
+      "code3": "NIC",
+      "euMember": false,
+      "name": "Nicaragua",
+      "numericCode": 558
+    },
+    {
+      "code2": "CI",
+      "code3": "CIV",
+      "euMember": false,
+      "name": "Ivory Coast",
+      "numericCode": 384
+    },
+    {
+      "code2": "PK",
+      "code3": "PAK",
+      "euMember": false,
+      "name": "Pakistan",
+      "numericCode": 586
+    },
+    {
+      "code2": "VN",
+      "code3": "VNM",
+      "euMember": false,
+      "name": "Vietnam",
+      "numericCode": 704
+    },
+    {
+      "code2": "BT",
+      "code3": "BTN",
+      "euMember": false,
+      "name": "Bhutan",
+      "numericCode": 64
+    },
+    {
+      "code2": "CD",
+      "code3": "COD",
+      "euMember": false,
+      "name": "Congo, the Democratic Republic of the",
+      "numericCode": 180
+    },
+    {
+      "code2": "GY",
+      "code3": "GUY",
+      "euMember": false,
+      "name": "Guyana",
+      "numericCode": 328
+    },
+    {
+      "code2": "BO",
+      "code3": "BOL",
+      "euMember": false,
+      "name": "Bolivia, Plurinational State of",
+      "numericCode": 68
+    },
+    {
+      "code2": "CG",
+      "code3": "COG",
+      "euMember": false,
+      "name": "Congo",
+      "numericCode": 178
+    },
+    {
+      "code2": "AT",
+      "code3": "AUT",
+      "euMember": false,
+      "name": "Austria",
+      "numericCode": 40
+    },
+    {
+      "code2": "ID",
+      "code3": "IDN",
+      "euMember": false,
+      "name": "Indonesia",
+      "numericCode": 360
+    },
+    {
+      "code2": "KM",
+      "code3": "COM",
+      "euMember": false,
+      "name": "Comoros",
+      "numericCode": 174
+    },
+    {
+      "code2": "NC",
+      "code3": "NCL",
+      "euMember": false,
+      "name": "New Caledonia",
+      "numericCode": 540
+    },
+    {
+      "code2": "FI",
+      "code3": "FIN",
+      "euMember": false,
+      "name": "Finland",
+      "numericCode": 246
+    },
+    {
+      "code2": "GH",
+      "code3": "GHA",
+      "euMember": false,
+      "name": "Ghana",
+      "numericCode": 288
+    },
+    {
+      "code2": "GF",
+      "code3": "GUF",
+      "euMember": false,
+      "name": "French Guiana",
+      "numericCode": 254
+    },
+    {
+      "code2": "IE",
+      "code3": "IRL",
+      "euMember": false,
+      "name": "Ireland",
+      "numericCode": 372
+    },
+    {
+      "code2": "GE",
+      "code3": "GEO",
+      "euMember": false,
+      "name": "Georgia",
+      "numericCode": 268
+    },
+    {
+      "code2": "NG",
+      "code3": "NGA",
+      "euMember": false,
+      "name": "Nigeria",
+      "numericCode": 566
+    },
+    {
+      "code2": "VC",
+      "code3": "VCT",
+      "euMember": false,
+      "name": "Saint Vincent and the Grenadines",
+      "numericCode": 670
+    },
+    {
+      "code2": "CN",
+      "code3": "CHN",
+      "euMember": false,
+      "name": "China",
+      "numericCode": 156
+    },
+    {
+      "code2": "CY",
+      "code3": "CYP",
+      "euMember": false,
+      "name": "Cyprus",
+      "numericCode": 196
+    },
+    {
+      "code2": "CV",
+      "code3": "CPV",
+      "euMember": false,
+      "name": "Cape Verde",
+      "numericCode": 132
+    },
+    {
+      "code2": "MO",
+      "code3": "MAC",
+      "euMember": false,
+      "name": "Macao",
+      "numericCode": 446
+    },
+    {
+      "code2": "BO",
+      "code3": "BOL",
+      "euMember": false,
+      "name": "Bolivia",
+      "numericCode": 68
+    },
+    {
+      "code2": "SZ",
+      "code3": "SWZ",
+      "euMember": false,
+      "name": "Swaziland",
+      "numericCode": 748
+    },
+    {
+      "code2": "SE",
+      "code3": "SWE",
+      "euMember": false,
+      "name": "Sweden",
+      "numericCode": 752
+    },
+    {
+      "code2": "VG",
+      "code3": "VGB",
+      "euMember": false,
+      "name": "Virgin Islands, British",
+      "numericCode": 92
+    },
+    {
+      "code2": "LB",
+      "code3": "LBN",
+      "euMember": false,
+      "name": "Lebanon",
+      "numericCode": 422
+    },
+    {
+      "code2": "PS",
+      "code3": "PSE",
+      "euMember": false,
+      "name": "Palestinian Territory, Occupied",
+      "numericCode": 275
+    },
+    {
+      "code2": "UM",
+      "code3": "UMI",
+      "euMember": false,
+      "name": "United States Minor Outlying Islands",
+      "numericCode": 581
+    },
+    {
+      "code2": "AG",
+      "code3": "ATG",
+      "euMember": false,
+      "name": "Antigua and Barbuda",
+      "numericCode": 28
+    },
+    {
+      "code2": "SG",
+      "code3": "SGP",
+      "euMember": false,
+      "name": "Singapore",
+      "numericCode": 702
+    },
+    {
+      "code2": "NO",
+      "code3": "NOR",
+      "euMember": false,
+      "name": "Norway",
+      "numericCode": 578
+    },
+    {
+      "code2": "CX",
+      "code3": "CXR",
+      "euMember": false,
+      "name": "Christmas Island",
+      "numericCode": 162
+    },
+    {
+      "code2": "RW",
+      "code3": "RWA",
+      "euMember": false,
+      "name": "Rwanda",
+      "numericCode": 646
+    },
+    {
+      "code2": "WF",
+      "code3": "WLF",
+      "euMember": false,
+      "name": "Wallis and Futuna",
+      "numericCode": 876
+    },
+    {
+      "code2": "MP",
+      "code3": "MNP",
+      "euMember": false,
+      "name": "Northern Mariana Islands",
+      "numericCode": 580
+    },
+    {
+      "code2": "DZ",
+      "code3": "DZA",
+      "euMember": false,
+      "name": "Algeria",
+      "numericCode": 12
+    },
+    {
+      "code2": "FJ",
+      "code3": "FJI",
+      "euMember": false,
+      "name": "Fiji",
+      "numericCode": 242
+    },
+    {
+      "code2": "BG",
+      "code3": "BGR",
+      "euMember": false,
+      "name": "Bulgaria",
+      "numericCode": 100
+    },
+    {
+      "code2": "AQ",
+      "code3": "ATA",
+      "euMember": false,
+      "name": "Antarctica",
+      "numericCode": 10
+    },
+    {
+      "code2": "TD",
+      "code3": "TCD",
+      "euMember": false,
+      "name": "Chad",
+      "numericCode": 148
+    },
+    {
+      "code2": "SM",
+      "code3": "SMR",
+      "euMember": false,
+      "name": "San Marino",
+      "numericCode": 674
+    },
+    {
+      "code2": "BJ",
+      "code3": "BEN",
+      "euMember": false,
+      "name": "Benin",
+      "numericCode": 204
+    },
+    {
+      "code2": "SY",
+      "code3": "SYR",
+      "euMember": false,
+      "name": "Syrian Arab Republic",
+      "numericCode": 760
+    },
+    {
+      "code2": "SB",
+      "code3": "SLB",
+      "euMember": false,
+      "name": "Solomon Islands",
+      "numericCode": 90
+    },
+    {
+      "code2": "HN",
+      "code3": "HND",
+      "euMember": false,
+      "name": "Honduras",
+      "numericCode": 340
+    },
+    {
+      "code2": "AZ",
+      "code3": "AZE",
+      "euMember": false,
+      "name": "Azerbaijan",
+      "numericCode": 31
+    },
+    {
+      "code2": "BI",
+      "code3": "BDI",
+      "euMember": false,
+      "name": "Burundi",
+      "numericCode": 108
+    },
+    {
+      "code2": "ES",
+      "code3": "ESP",
+      "euMember": false,
+      "name": "Spain",
+      "numericCode": 724
+    },
+    {
+      "code2": "AD",
+      "code3": "AND",
+      "euMember": false,
+      "name": "Andorra",
+      "numericCode": 20
+    },
+    {
+      "code2": "NF",
+      "code3": "NFK",
+      "euMember": false,
+      "name": "Norfolk Island",
+      "numericCode": 574
+    },
+    {
+      "code2": "BA",
+      "code3": "BIH",
+      "euMember": false,
+      "name": "Bosnia and Herzegovina",
+      "numericCode": 70
+    },
+    {
+      "code2": "PT",
+      "code3": "PRT",
+      "euMember": false,
+      "name": "Portugal",
+      "numericCode": 620
+    },
+    {
+      "code2": "AU",
+      "code3": "AUS",
+      "euMember": false,
+      "name": "Australia",
+      "numericCode": 36
+    },
+    {
+      "code2": "AO",
+      "code3": "AGO",
+      "euMember": false,
+      "name": "Angola",
+      "numericCode": 24
+    },
+    {
+      "code2": "EG",
+      "code3": "EGY",
+      "euMember": false,
+      "name": "Egypt",
+      "numericCode": 818
+    },
+    {
+      "code2": "UY",
+      "code3": "URY",
+      "euMember": false,
+      "name": "Uruguay",
+      "numericCode": 858
+    },
+    {
+      "code2": "US",
+      "code3": "USA",
+      "euMember": false,
+      "name": "United States",
+      "numericCode": 840
+    },
+    {
+      "code2": "CH",
+      "code3": "CHE",
+      "euMember": false,
+      "name": "Switzerland",
+      "numericCode": 756
+    },
+    {
+      "code2": "GW",
+      "code3": "GNB",
+      "euMember": false,
+      "name": "Guinea-Bissau",
+      "numericCode": 624
+    },
+    {
+      "code2": "LK",
+      "code3": "LKA",
+      "euMember": false,
+      "name": "Sri Lanka",
+      "numericCode": 144
+    }
+  ]
